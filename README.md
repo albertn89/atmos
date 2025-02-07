@@ -1,6 +1,6 @@
 # atmos
 
-Minimalistic weather app/
+Minimalistic weather app
 
 ## Getting Started
 
