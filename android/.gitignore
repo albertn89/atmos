@@ -1,0 +1,38 @@
+# Gradle files
+/.gradle/
+/build/
+
+# Local configuration file
+local.properties
+
+# Android Studio generated files
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+bin/
+gen/
+out/
+app/debug/
+app/profile/
+app/release/
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio will place build artifacts here
+/app/debug
+/app/profile
+/app/release
+
+# Keystore files
+*.keystore
+*.jks
+key.properties
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Generated Java files
+**/GeneratedPluginRegistrant.java

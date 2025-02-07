@@ -1,0 +1,30 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# System files
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+Thumbs.db
+
+# Temp files
+*.log
+*.pyc
+*.swp

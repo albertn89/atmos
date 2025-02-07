@@ -1,0 +1,52 @@
+# Xcode
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+.idea/
+
+# Flutter/Dart/Pub related
+**/Flutter/.last_build_id
+**/Flutter/Flutter.framework/
+**/Flutter/Flutter.podspec
+**/Flutter/Generated.xcconfig
+**/Flutter/ephemeral/
+**/Flutter/flutter_export_environment.sh
+**/Flutter/app.flx
+**/Flutter/app.zip
+**/Flutter/flutter_assets/
+
+# iOS/XCode related
+**/dgph
+**/Pods/
+**/.symlinks/
+profile
+.sconsign.dblite
+.tags*
+**/.vagrant/
+ServiceDefinitions.json
+**/GeneratedPluginRegistrant.*
+
+# iOS Bundle
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# fastlane specific
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Exceptions to above rules
+!default.mode1v3
+!default.mode2v3
+!default.pbxuser
+!default.perspectivev3
